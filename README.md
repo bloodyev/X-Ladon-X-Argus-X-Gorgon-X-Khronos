@@ -25,7 +25,7 @@ douyin and tiktok X-Argus X-Ladon X-Gorgon X-Khronos algorithm, device register 
 
 
 ### X-Gorgon X-Khronos algorithm
-<img src="./data/tt_xg.png">
+
 
 ```json
 {
@@ -35,7 +35,6 @@ douyin and tiktok X-Argus X-Ladon X-Gorgon X-Khronos algorithm, device register 
 ```
 
 ### X-Argus X-Ladon algorithm
-<img src="./data/tt_xa.png">
 
 ```json
 {
@@ -47,7 +46,6 @@ douyin and tiktok X-Argus X-Ladon X-Gorgon X-Khronos algorithm, device register 
 ```
 
 ### live data
-<img src="./data/tt_live.png">
 
 ```
 <Enter> debay928 entered then room
@@ -78,8 +76,10 @@ douyin and tiktok X-Argus X-Ladon X-Gorgon X-Khronos algorithm, device register 
 ```
 
 #### user info test
-<img src="./data/tt_userinfo.gif">
 
 
+**Contact for api :** [https://t.me/tiktokpeppa](https://t.me/tiktokpeppa)
+## telegram: @tiktokpeppa
+## skype: live:.cid.8e129461a4e880f7
 
 # [Contact Telegram](https://t.me/tiktokpeppa)
