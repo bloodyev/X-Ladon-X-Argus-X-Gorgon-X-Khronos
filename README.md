@@ -2,7 +2,7 @@
 X-Ladon-X-Argus-X-Gorgon-X-Khronos
 
 
-Tiktok Algorithm | [抖音算法](README_dy.md)
+Tiktok Algorithm | 
 
 ### Latest version available for testing
 
